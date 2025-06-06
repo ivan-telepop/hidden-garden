@@ -3,9 +3,9 @@ import { ThemeSwitch } from "./theme-switch";
 import { metaData } from "../config";
 
 const navItems = {
-  "/menu": { name: "Menu dishes" },
+  "/menu": { name: "Menu" },
   "/drinks": { name: "Drinks" },
-  "/projects": { name: "Our Projects" },
+  "/projects": { name: "Our Site" },
   "/photos": { name: "Photos" },
 };
 

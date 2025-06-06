@@ -96,7 +96,7 @@ export default function Blog({ params }) {
         
       </div>
       <div>
-        <Image height={200} width={250}  alt={`${post.metadata.title}`} src={`${post.metadata.image}`}/>
+        <Image height={180} width={250}  alt={`${post.metadata.title}`} src={`${post.metadata.image}`}/>
       </div>
       <article className="prose prose-quoteless prose-neutral dark:prose-invert">
         <CustomMDX source={post.content} />

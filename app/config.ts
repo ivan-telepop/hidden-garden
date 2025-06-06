@@ -1,8 +1,8 @@
 export const metaData = {
-  baseUrl: "https://ivanistereotekk.github.io/",
-  title: "Hidden Garden",
+  baseUrl: "https://example.com/",
+  title: "Shady Garden",
   name: "Restaurant that we deserved",
-  ogImage: "/trian.png",
+  ogImage: "/",
   description:
     "Demonstartion web site for restaurants",
 };

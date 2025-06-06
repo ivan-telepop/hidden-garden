@@ -7,24 +7,24 @@ export interface Project {
   
   export const projects: Project[] = [
     {
-      title: "Gestures Detection, Ableton Live & MIDI, Computer Vision",
+      title: "Story about Georgian winery & production",
       year: 2023,
       description:
-        "Время от времени я пробую разные технологии. Мини пэт проект. Я переобразовал hand landmarks data в MIDI сигнал. Далее сигнал к аблетону... и это звучит! Конечно проект требует развития, но все же на мой взгляд очень интересный проект. Ну или прототип проекта. Буду продолжать его по мере возможности!",
-      url: "https://youtu.be/wMKDv2Fauus",
+        "Geographical placement is the final thread that ensures Georgia’s viticultural relevance today.",
+      url: "https://georgianwines.com/",
     },
     {
-      title: "Computer Brain Interface в MIDI с headset  от Kernel",
+      title: "Clay, culture, and connection",
       year: 2022,
       description:
-        "Идея получения сигналов с интерфейса \"мозг-компьютер\" мне очень нравится, и в этом направлении много интересных проектов. Думаю Kernel самый серьезный представитель на молодом рынке таких интерфейсов. В обозримом будущем хочу получить SDK + набор который поможет видеть данные о нейронной активности мозга, и как один из возможных вариантов переобразовывать эти данные в MIDI, хотя технология не граничивается только этим.",
-      url: "https://www.kernel.com/products",
+        "The Georgian terrain, gifted with a temperate climate conducive to vine cultivation, has become home to over 525 indigenous grape varieties. The famed Alazani River Valley, framed against the backdrop of the Caucasus Mountains, is a winemaking haven, with its combination of well-drained, mineral-rich soils and high altitude contributing to the distinctive flavors and aromas typical of Georgian wines.",
+      url: "https://sponsorcontent.cnn.com/int/georgia-wine-agency/the-story-of-georgian-wine/",
     },
     {
-      title: "Микросервисы - Разделяй и влавствуй !",
+      title: "Traditions & Wine in Georgia",
       year: 2021,
       description:
-        "Микросервисная архитектура стала популярной в последние годы благодаря своей гибкости и масштабируемости. Абсолютно уверен, дробить монолит имеет смысл, и вот почему...",
-      url: "http://ivanistereotekk.github.io/blog/granular-micro",
+        "Wine writer Betsy Andrews makes the compelling case that Georgian wine is the best option for your holiday table. Georgia may be best known for its amber wines aged in traditional clay pots, or qvevri, but the country produces a broad spectrum of styles, from aromatic dry whites and delicate sparklers, to richly spiced reds. No matter what you’re serving, there is a Georgian wine fit to pair.",
+      url: "https://winesgeorgia.com/grape-varieties/",
     },
   ];
