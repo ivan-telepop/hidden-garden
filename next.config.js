@@ -2,6 +2,11 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  output: 'export', 
+  basePath: '/hidden-garden', 
+  images: {
+    unoptimized: true, 
+  },
   // output: "export",
   async rewrites() {
     return [
@@ -39,6 +44,3 @@ const nextConfig = {
 
 module.exports = nextConfig;
 
-module.exports = {
-  basePath: '/hidden-garden',
-}
