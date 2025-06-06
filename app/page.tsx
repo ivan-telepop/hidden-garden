@@ -21,7 +21,7 @@ export default function Page() {
   <div className="prose prose-neutral dark:prose-invert ">
    <pre> <h4>D E M O   P U R P O S E   W E B   S I T E </h4> </pre>
 
-  <p>Welcome to Shady Garden —This is Demonstration purpose web site. But it would be a cozy restaurant nestled in a green urban oasis. We offer seasonal signature cuisine, rich coffee, and a peaceful atmosphere under trees and soft lights. Whether you're planning a romantic dinner, a friendly gathering, or a quiet breakfast, Shady Garden is the perfect escape to relax and enjoy exceptional flavors.</p>
+  <p>Welcome to Hidden Garden —This is Demonstration purpose web site. But it would be a cozy restaurant nestled in a green urban oasis. We offer seasonal signature cuisine, rich coffee, and a peaceful atmosphere under trees and soft lights. Whether you're planning a romantic dinner, a friendly gathering, or a quiet breakfast, Shady Garden is the perfect escape to relax and enjoy exceptional flavors.</p>
  <hr/>
         <pre className="prose prose-neutral dark:prose-invert ">
           <p>

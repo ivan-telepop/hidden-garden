@@ -1,10 +1,10 @@
 export const metaData = {
   baseUrl: "https://example.com/",
-  title: "Shady Garden",
+  title: "Hidden Garden",
   name: "Restaurant that we deserved",
   ogImage: "/",
   description:
-    "Demonstartion web site for restaurants",
+    "Demonstration web site for restaurants",
 };
 
 export const socialLinks = {
