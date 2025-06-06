@@ -15,40 +15,50 @@ export default function Photos() {
         columns={3}
         images={[
           {
-            src: "/photos/dog.jpg",
-            alt: "Posing well",
-            href: "https://ableton.com",
+            src: "/photos/party1.jpg",
+            alt: "Party 1 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
+          },
+         {
+            src: "/photos/party2.jpg",
+            alt: "Party 1 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/pic1.jpg",
-            alt: "Home Studio",
-            href: "https://mixcult.bandcamp.com/album/self-object-id-ep",
+            src: "/photos/party3.jpg",
+            alt: "Party 1 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/vs-code.png",
-            alt: "code",
-            href: "https://github.com/ivanIStereotekk",
+            src: "/photos/party4.jpg",
+            alt: "Party 1 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/ableton.png",
-            alt: "Leto",
-            href: "https://github.com/ivanIStereotekk",
-          },
-          {
-            src: "/photos/bf-algo.png",
-            alt: "Graph",
-            href: "https://github.com/ivanIStereotekk",
+            src: "/photos/party5.jpg",
+            alt: "Party 5 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           
           {
-            src: "/photos/tb-03.jpg",
-            alt: "Tbilisi",
-            href: "https://github.com/ivanIStereotekk",
+            src: "/photos/party6.jpg",
+            alt: "Party 6 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/tree.png",
-            alt: "tree",
-            href: "https://github.com/ivanIStereotekk",
+            src: "/photos/party7.jpg",
+            alt: "Party 7 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
+          },
+          {
+            src: "/photos/party8.jpg",
+            alt: "Party 8 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
+          },
+          {
+            src: "/photos/party9.jpg",
+            alt: "Party 9 well",
+            href: "https://www.istockphoto.com/photos/restaurant-party",
           },
         ]}
       />
@@ -56,25 +66,31 @@ export default function Photos() {
       <ImageGrid
         columns={2}
         images={[
-          { src: "/photos/dog.jpg", alt: "Posing" },
-          { src: "/photos/tree.png", alt: "Tree" },
-          { src: "/photos/pic1.jpg", alt: "Studio" },
-          { src: "/photos/ew-01.jpg", alt: "Ivan" },
-          { src: "/photos/ableton.png", alt: "Ableton" },
-          { src: "/photos/vs-code.png", alt: "VS-Code" },
-          { src: "/photos/fl-02.jpg", alt: "Plane" },
+          { src: "/photos/party1.jpg", alt: "P" },
+          { src: "/photos/party2.jpg", alt: "T" },
+          { src: "/photos/party3.jpg", alt: "S" },
+          { src: "/photos/party4.jpg", alt: "I" },
+          { src: "/photos/party5.jpg", alt: "A" },
+          { src: "/photos/party6.jpg", alt: "V" },
+          { src: "/photos/party7.jpg", alt: "P" },
+          { src: "/photos/party8.jpg", alt: "P" },
+          { src: "/photos/party9.jpg", alt: "P" },
+          
         ]}
       />
 
       <ImageGrid
         columns={4}
         images={[
-          { src: "/photos/pic1.jpg", alt: "***" },
-          { src: "/photos/ableton.png", alt: "me" },
-          { src: "/photos/dog.jpg", alt: "Dog" },
-          { src: "/photos/vs-code.png", alt: "eq" },
-          { src: "/photos/fl-02.jpg", alt: "Plane" },
-          { src: "/photos/tree.png", alt: "Tree" },
+          { src: "/photos/party1.jpg", alt: "P" },
+          { src: "/photos/party2.jpg", alt: "T" },
+          { src: "/photos/party3.jpg", alt: "S" },
+          { src: "/photos/party4.jpg", alt: "I" },
+          { src: "/photos/party5.jpg", alt: "A" },
+          { src: "/photos/party6.jpg", alt: "V" },
+          { src: "/photos/party7.jpg", alt: "P" },
+          { src: "/photos/party8.jpg", alt: "P" },
+          { src: "/photos/party9.jpg", alt: "P" },
         ]}
       />
     </section>

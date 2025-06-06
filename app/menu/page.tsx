@@ -12,15 +12,11 @@ export default function BlogPosts() {
 
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-medium tracking-tight">О коде и технологиях</h1>
+      <h1 className="mb-8 text-2xl font-medium tracking-tight">Dishes main menu</h1>
 
     <div className="pb-24 prose prose-neutral dark:prose-invert ">
 <p>
-      {/* Прежде чем что-либо делать, я всегда задаю себе вопрос...<br/> 
-      <b>Зачем ?</b> */}
-    <p>      
-   here you will find the text abou or menu
-    </p>
+List of menu items:
 </p>
     </div>
       <div>
