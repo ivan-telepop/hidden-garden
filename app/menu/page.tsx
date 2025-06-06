@@ -13,9 +13,9 @@ export default function BlogPosts() {
   return (
     <section>
     <div className="pb-24 prose prose-neutral dark:prose-invert ">
-<h4>
+<pre className="prose prose-neutral dark:prose-invert ">
 List of menu items:
-</h4>
+</pre>
     </div>
       <div>
         {allBlogs
@@ -30,6 +30,7 @@ List of menu items:
           })
           .map((post) => (
             
+          <pre>
             <Link
               key={post.slug}
               className="flex flex-col space-y-1 mb-4 transition-opacity duration-200 hover:opacity-80"
@@ -45,6 +46,7 @@ List of menu items:
                 </p>
             </div>
             </Link>
+          </pre>
             
           ))}
            

@@ -15,13 +15,11 @@ export default function DrinkPosts() {
       
 
     <div className="pb-24 prose prose-neutral dark:prose-invert ">
-<p>
-   
 
-    <p>      
+    <pre className="prose prose-neutral dark:prose-invert ">      
     Drinks & Wines
-    </p>
-</p>
+    </pre>
+
     </div>
       <div>
         {allBlogs
@@ -35,7 +33,8 @@ export default function DrinkPosts() {
             return 1;
           })
           .map((post) => (
-            <Link
+            <pre>
+              <Link
               key={post.slug}
               className="flex flex-col space-y-1 mb-4 transition-opacity duration-200 hover:opacity-80"
               href={`/drinks/${post.slug}`}
@@ -50,6 +49,7 @@ export default function DrinkPosts() {
                 </p>
                           </div>
             </Link>
+            </pre>
             
           ))}
        
