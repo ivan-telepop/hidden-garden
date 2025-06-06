@@ -15,48 +15,48 @@ export default function Photos() {
         columns={3}
         images={[
           {
-            src: "/photos/party1.jpg",
+            src: "/party1.jpg",
             alt: "Party 1 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
          {
-            src: "/photos/party2.jpg",
+            src: "/party2.jpg",
             alt: "Party 1 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/party3.jpg",
+            src: "/party3.jpg",
             alt: "Party 1 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/party4.jpg",
+            src: "/party4.jpg",
             alt: "Party 1 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/party5.jpg",
+            src: "/party5.jpg",
             alt: "Party 5 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           
           {
-            src: "/photos/party6.jpg",
+            src: "/party6.jpg",
             alt: "Party 6 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/party7.jpg",
+            src: "/party7.jpg",
             alt: "Party 7 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/party8.jpg",
+            src: "/party8.jpg",
             alt: "Party 8 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
           {
-            src: "/photos/party9.jpg",
+            src: "/party9.jpg",
             alt: "Party 9 well",
             href: "https://www.istockphoto.com/photos/restaurant-party",
           },
@@ -66,15 +66,15 @@ export default function Photos() {
       <ImageGrid
         columns={2}
         images={[
-          { src: "/photos/party1.jpg", alt: "P" },
-          { src: "/photos/party2.jpg", alt: "T" },
-          { src: "/photos/party3.jpg", alt: "S" },
-          { src: "/photos/party4.jpg", alt: "I" },
-          { src: "/photos/party5.jpg", alt: "A" },
-          { src: "/photos/party6.jpg", alt: "V" },
-          { src: "/photos/party7.jpg", alt: "P" },
-          { src: "/photos/party8.jpg", alt: "P" },
-          { src: "/photos/party9.jpg", alt: "P" },
+          { src: "/party1.jpg", alt: "P" },
+          { src: "/party2.jpg", alt: "T" },
+          { src: "/party3.jpg", alt: "S" },
+          { src: "/party4.jpg", alt: "I" },
+          { src: "/party5.jpg", alt: "A" },
+          { src: "/party6.jpg", alt: "V" },
+          { src: "/party7.jpg", alt: "P" },
+          { src: "/party8.jpg", alt: "P" },
+          { src: "/party9.jpg", alt: "P" },
           
         ]}
       />
@@ -82,15 +82,15 @@ export default function Photos() {
       <ImageGrid
         columns={4}
         images={[
-          { src: "/photos/party1.jpg", alt: "P" },
-          { src: "/photos/party2.jpg", alt: "T" },
-          { src: "/photos/party3.jpg", alt: "S" },
-          { src: "/photos/party4.jpg", alt: "I" },
-          { src: "/photos/party5.jpg", alt: "A" },
-          { src: "/photos/party6.jpg", alt: "V" },
-          { src: "/photos/party7.jpg", alt: "P" },
-          { src: "/photos/party8.jpg", alt: "P" },
-          { src: "/photos/party9.jpg", alt: "P" },
+          { src: "/party1.jpg", alt: "P" },
+          { src: "/party2.jpg", alt: "T" },
+          { src: "/party3.jpg", alt: "S" },
+          { src: "/party4.jpg", alt: "I" },
+          { src: "/party5.jpg", alt: "A" },
+          { src: "/party6.jpg", alt: "V" },
+          { src: "/party7.jpg", alt: "P" },
+          { src: "/party8.jpg", alt: "P" },
+          { src: "/party9.jpg", alt: "P" },
         ]}
       />
     </section>
