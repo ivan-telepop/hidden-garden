@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  basePath: '/hidden-garden',
   swcMinify: true,
   // output: "export",
   async rewrites() {
@@ -40,4 +39,6 @@ const nextConfig = {
 
 module.exports = nextConfig;
 
-
+module.exports = {
+  basePath: '/hidden-garden',
+}
