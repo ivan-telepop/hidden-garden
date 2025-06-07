@@ -1,6 +1,6 @@
-# Hidden garden 
+# Hidden garden
 
-demo thing
+demo: https://ivanistereotekk.github.io/hidden-garden/
 
 Stack: React / Next / Tailwind
 
