@@ -1,6 +1,7 @@
 import React from "react";
 import type { Metadata } from "next";
 import { ImageGrid } from "app/components/image-grid";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Photos",
@@ -10,8 +11,10 @@ export const metadata: Metadata = {
 export default function Photos() {
   return (
     <section>
-      <pre>
-          <h3 className="mb-8 text-2xl font-medium tracking-tight">Photos</h3>
+      <pre className="prose prose-neutral dark:prose-invert ">
+          <p> Photo by{" "}
+            <Link className="no-underline text-sm" href="https://t.me/Alex_Parshinn ">Alex Parshinn [ +995574152401 ]</Link>
+          </p>
       </pre>
       
       <ImageGrid
