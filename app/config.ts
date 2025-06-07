@@ -2,7 +2,7 @@ export const metaData = {
   baseUrl: "https://example.com/",
   title: "Hidden Garden",
   name: "Restaurant that we deserved",
-  ogImage: "/",
+  ogImage: "/og.jpg",
   description:
     "Demonstration web site for restaurants",
 };

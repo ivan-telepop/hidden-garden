@@ -23,23 +23,21 @@ export default function Page() {
 
   <p>Welcome to Hidden Garden —This is Demonstration purpose web site. But it would be a cozy restaurant nestled in a green urban oasis. We offer seasonal signature cuisine, rich coffee, and a peaceful atmosphere under trees and soft lights. Whether you're planning a romantic dinner, a friendly gathering, or a quiet breakfast, Shady Garden is the perfect escape to relax and enjoy exceptional flavors.</p>
  <hr/>
-        <pre className="prose prose-neutral dark:prose-invert ">
-          <p>
-          Web Sites & AI systems for businesses:{" "}
-          <Link href="https://ivanistereotekk.github.io/">GitHub</Link>.
-        </p>
-        </pre>
-<hr/>
     <pre className="prose prose-neutral dark:prose-invert ">
       
-         <p className="text-sm">Contact [ +995 557 991 664 ] Ewan</p>
+         <p className="text-sm">Phone [ +995 557 991 664 ] </p>
          <p>
-          Contact:  
-            <Link href="https://t.me/ewanG808">Telegram.</Link> <br/>
-
+          Telegram:   
+            <Link href="https://t.me/ewanG808" className=" p-1 no-underline bg-cyan-400 dark:bg-sky-600">@ewanG808</Link> <br/>
         </p>
-
     </pre>
+
+    <pre className="prose prose-neutral dark:prose-invert ">
+          <p>
+          Web Sites & AI systems for businesses:{" "}
+          <Link href="https://ivanistereotekk.github.io/">portfolio</Link>.
+        </p>
+        </pre>
         
   </div>
   </section>
