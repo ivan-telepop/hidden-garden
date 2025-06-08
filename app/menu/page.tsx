@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export const metadata = {
   title: "Menu",
-  description: "Menu positions in Shady Garden",
+  description: "Menu positions in Hidden Garden",
 };
 
 export default function BlogPosts() {
@@ -14,7 +14,7 @@ export default function BlogPosts() {
     <section>
     <div className="pb-24 prose prose-neutral dark:prose-invert ">
 <pre className="prose prose-neutral dark:prose-invert ">
-List of menu items:
+Menu / dishes:
 </pre>
     </div>
       <div>

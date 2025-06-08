@@ -1,6 +1,9 @@
-# Hidden garden
+### Hidden Garden 
+Restaurant Template
+---
 
-demo: https://ivanistereotekk.github.io/hidden-garden/
+
+- demo: https://ivanistereotekk.github.io/hidden-garden/
 
 Stack: React / Next / Tailwind
 
