@@ -19,9 +19,12 @@ export default function Page() {
         />
 </div>      
   <div className="prose prose-neutral dark:prose-invert ">
-   <pre> <h4>D E M O   P U R P O S E   W E B   S I T E </h4> </pre>
+   {/* <pre> <h4>D E M O   P U R P O S E   W E B   S I T E </h4> </pre> */}
 
-  <p>Welcome to Hidden Garden — This is Demonstration purpose web site. But it would be an great a cozy restaurant nestled in a green urban oasis. This restaurant offer seasonal signature cuisine, rich coffee, and a peaceful atmosphere under trees and soft lights. Whether you're planning a romantic dinner, a friendly gathering, or a quiet breakfast, Shady Garden is the perfect escape to relax and enjoy exceptional flavors.</p>
+  <p>Welcome to Hidden Garden — This is Demonstration purpose web. 
+    Возможно вам понравится этот стиль, прошу жать на линки и контактировать со мной.
+    Уверен я смогу вам помочь придумать что то стоющее для вашего бизнеса, или идеи.
+    Мои контакты вы можете найти на этой странице !</p>
  <hr/>
     <pre className="prose prose-neutral dark:prose-invert ">
       
@@ -35,7 +38,7 @@ export default function Page() {
     <pre className="prose prose-neutral dark:prose-invert ">
           <p>
           Web Sites & AI systems for businesses:{" "}
-          <Link href="https://ivanistereotekk.github.io/">portfolio</Link>.
+          <Link href="https://ivan-telepop.github.io/">portfolio</Link>.
         </p>
     </pre>
     <hr/>
